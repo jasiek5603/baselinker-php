@@ -1,12 +1,12 @@
 {
-    "name": "mnastalski/baselinker-php",
+    "name": "jasiek5603/baselinker-php",
     "description": "BaseLinker PHP library",
     "keywords": [
         "baselinker"
     ],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/mnastalski/baselinker-php",
+    "homepage": "https://github.com/jasiek5603/baselinker-php",
     "authors": [
         {
             "name": "Mateusz Nastalski",
